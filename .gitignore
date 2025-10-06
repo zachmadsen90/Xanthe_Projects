@@ -1,0 +1,20 @@
+# Ignore everything
+*
+
+# Unignore itself
+!.gitignore
+
+# Code & documentation
+!*.R
+!*.Rmd
+!*.md
+!*.txt
+
+# Small data
+!*.csv
+!*.xlsx
+
+# Thesis & docs
+!*.doc
+!*.docx
+!*.pdf
